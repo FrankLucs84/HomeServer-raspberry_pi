@@ -1,4 +1,4 @@
-# 🍓 Raspberry Pi — Local setup and control (LAN)
+# 🍓 Raspberry Pi — Local setup and control
 
 > **Environment:** Raspberry Pi 4/5 · Debian GNU/Linux 13 (Trixie) · Kernel 6.12.x (arm64)
 > **Last updated:** March 2026
