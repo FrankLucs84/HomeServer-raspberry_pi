@@ -1,6 +1,6 @@
 
 ````markdown
-# 🍓 Raspberry Pi Remote Desktop via Tailscale + XRDP
+# 🍓 Raspberry Pi - Remote access via VPN (Tailscale + XRDP)
 
 Secure remote access to your Raspberry Pi desktop from anywhere (Wi-Fi / 4G / 5G) without configuring port forwarding.
 
